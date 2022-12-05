@@ -18,15 +18,11 @@ jobs:
       fail-fast: false
       matrix:
         version:
-          - '1.8'
-          - 'nightly'
+          - '1.8' #- 'nightly'
         os:
-          - ubuntu-latest
-          - macOS-latest
-          - windows-latest
+          - ubuntu-latest #- macOS-latest #- windows-latest
         arch:
-          - x64
-          - x86
+          - x64 #- x86
         exclude:
           - os: macOS-latest
             arch: x86
