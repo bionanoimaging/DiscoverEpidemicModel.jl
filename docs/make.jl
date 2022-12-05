@@ -14,5 +14,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/bionanoimaging/DiscoverEpidemicModel.jl.git",
-    devbranch="master",
+    devbranch="main",
 )
