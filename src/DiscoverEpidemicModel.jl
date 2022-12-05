@@ -4,6 +4,8 @@ module DiscoverEpidemicModel
 using Dates
 using DataFrames
 using HTTP
+
+
 include("GetData.jl")
 
 # application
