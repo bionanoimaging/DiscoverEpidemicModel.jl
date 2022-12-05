@@ -6,11 +6,11 @@ DocMeta.setdocmeta!(DiscoverEpidemicModel, :DocTestSetup, :(using DiscoverEpidem
 makedocs(;
     modules=[DiscoverEpidemicModel],
     authors="Morteza Babazadeh, Rainer Heintzmann, René Lachmann",
-    repo="https://github.com/renerichter/DiscoverEpidemicModel.jl/blob/{commit}{path}#{line}",
+    repo="https://github.com/bionanoimaging/DiscoverEpidemicModel.jl/blob/{commit}{path}#{line}",
     sitename="DiscoverEpidemicModel.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://renerichter.github.io/DiscoverEpidemicModel.jl",
+        canonical="https://bionanoimaging.github.io/DiscoverEpidemicModel.jl",
         edit_link="main",
         assets=String[],
     ),
@@ -20,6 +20,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/renerichter/DiscoverEpidemicModel.jl",
+    repo="github.com/bionanoimaging/DiscoverEpidemicModel.jl",
     devbranch="main",
 )
