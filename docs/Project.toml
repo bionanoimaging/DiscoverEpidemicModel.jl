@@ -1,0 +1,3 @@
+[deps]
+DiscoverEpidemicModel = "3fd60281-8f7d-4d5c-81b1-0114bc713a7d"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
