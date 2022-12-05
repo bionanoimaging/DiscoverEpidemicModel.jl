@@ -14,8 +14,8 @@ More coming soon.
 [docs-dev-img]: https://img.shields.io/badge/docs-dev-blue.svg
 [docs-dev-url]: https://bionanoimaging.github.io/DiscoverEpidemicModel.jl/dev/
 
-[CI-img]: https://github.com/bionanoimaging/DiscoverEpidemicModel.jl/actions/workflows/ci.yml/badge.svg
-[CI-url]: https://github.com/bionanoimaging/DiscoverEpidemicModel.jl/actions/workflows/ci.yml
+[CI-img]: https://github.com/bionanoimaging/DiscoverEpidemicModel.jl/actions/workflows/CI.yml/badge.svg
+[CI-url]: https://github.com/bionanoimaging/DiscoverEpidemicModel.jl/actions/workflows/CI.yml
 
 [codecov-img]: https://codecov.io/gh/bionanoimaging/DiscoverEpidemicModel.jl/branch/main/graph/badge.svg
 [codecov-url]: https://codecov.io/gh/bionanoimaging/DiscoverEpidemicModel.jl
