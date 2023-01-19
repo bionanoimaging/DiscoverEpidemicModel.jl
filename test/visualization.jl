@@ -1,5 +1,5 @@
-url="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv"
-download(url,"covid_data.csv")
+#url="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv"
+#download(url,"covid_data.csv")
 
 using CSV,DataFrames,LsqFit
 using PlutoUI,Shapefile,ZipFile
